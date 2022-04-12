@@ -1,5 +1,4 @@
 # TOOL
-PUBG Mobile 1.9 \n
 Telegram: https://t.me/ODIUM_Gaming
 
 launching:
