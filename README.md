@@ -1,4 +1,5 @@
 # TOOL
+PUBG Mobile 1.9
 Telegram: https://t.me/ODIUM_Gaming
 
 launching:
@@ -8,7 +9,7 @@ termux-setup-storage
 
 pkg update && pkg upgrade -y
 
-pkg install git
+pkg install git -y
 
 git clone https://github.com/ODIUM-Gaming/TOOL
 
